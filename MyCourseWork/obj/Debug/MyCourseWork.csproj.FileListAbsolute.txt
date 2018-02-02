@@ -1,0 +1,28 @@
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Form1.resources
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.Cache
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+D:\Projects\Prg_on_MVS\Modeling\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Form1.resources
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+E:\Projects\Prg_on_MVS\Modeling\Новая папка\MyCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.Cache
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Form1.resources
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.Cache
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.CoreCompileInputs.cache
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+D:\Projects\ModelingCourseWork\ModelingCourseWork\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
